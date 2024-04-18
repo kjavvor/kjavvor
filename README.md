@@ -1,6 +1,10 @@
 # 💫 **Hello, World!** 
 ## Welcome to my profile!
 
+🌟 **About Me:**
+
+Currently enrolled as a **Computer Science** student at **Warsaw University of Technology**, I am on the lookout for a junior position as a **Deep Learning Engineer** or **Data Scientist**. My commitment to my studies and projects in the field reflects my dedication and hard work. I am always on a quest to enhance my skills and am not satisfied with just meeting expectations; I strive to surpass them and truly enjoy the work I do. Eager to demonstrate my capabilities, I am ready to become an invaluable asset to your team, confident in my ability to achieve excellent outcomes.
+
 🚀 **I'm currently working on:**<br>
 
 **Generating and identifying deepfake alterations in video content**<br>
