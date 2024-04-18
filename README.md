@@ -35,6 +35,10 @@
 - My experience developing a deep learning model for keyword detection in spoken sentences, including the challenges I faced, the technologies I used, and the successes we achieved in enhancing speech recognition capabilities.
 - My work on solar panel detection, exploring how we leveraged machine learning to accurately identify and analyze solar panels from aerial imagery.
 
+🔒 **Note on Private Repositories:** 
+
+Some of my projects are currently set to private either here on GitHub or on my university's private GitLab due to ongoing work and the sensitive or unfinished nature of the content. I am dedicated to making these projects available to the community once they are fully developed and ready for public sharing. Thank you for your understanding and patience!
+
 ⚡ **Fun fact**:
 
 I not only enjoy delving into the intricacies of technology but also relish a good match of tennis to rejuvenate my mind and body
