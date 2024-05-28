@@ -3,7 +3,7 @@
 
 🌟 **About Me:**
 
-Currently enrolled as a **Computer Science** student at **Warsaw University of Technology**, I am on the lookout for a junior position as a **Deep Learning Engineer** or **Data Scientist**. My commitment to my studies and projects in the field reflects my dedication and hard work. I am always on a quest to enhance my skills and am not satisfied with just meeting expectations; I strive to surpass them and truly enjoy the work I do. Eager to demonstrate my capabilities, I am ready to become an invaluable asset to your team, confident in my ability to achieve excellent outcomes.
+Currently enrolled as a **Computer Science** student at **Warsaw University of Technology** & **Deep Learning Engineer**.
 
 🚀 **I'm currently working on:**<br>
 
@@ -70,12 +70,3 @@ If you’re interested in mentoring a budding deep learning engineer or need an 
 ### 🔝 **Top Contributed Repo**:
 ![](https://github-contributor-stats.vercel.app/api?username=kjavvor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 👀 **Random Dev Meme**:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=kjavvor&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
